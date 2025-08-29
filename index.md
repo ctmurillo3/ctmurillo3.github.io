@@ -1,1 +1,6 @@
-sdsssfsafasas
+---
+layout: default
+title: Home
+---
+
+Hello, world! This is my homepage.
